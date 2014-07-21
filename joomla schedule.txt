@@ -1,0 +1,137 @@
+Beginners
+
+2 Absolute Beginners Guide to Joomla!
+2.1 Installing Joomla!
+2.2 Learn to Use Joomla!
+
+	1 Hands-on a Joomla! site: 
+	2 Setting up a Joomla! site: 
+		getting started with joomla
+		Background - things you need to know
+			Background: get to know the Back-end
+			Background: controlling user access to a Joomla! Site
+			Background: design the content - Categories in Joomla! 2.5
+			Background:design appearance using Menus and Modules
+			Background: design appearance using default Templates
+
+		The mechanics of setting up a new site
+				Copying a localhost site to a production site------###important####
+		General administration of a Joomla! site
+				Start to manage a Joomla! 1.5 site--------------###security####
+	3 Looking after a Joomla! site: 
+	4 Doing more and learning more: 
+
+	
+2.3 Getting Support
+3 Before You Start Creating Your Joomla! Site
+   Finding and installing extensions
+3.1 Getting Help in the Joomla! Forums
+4 Keep Your Joomla! Site Secure
+5 Understand How Joomla! Works
+
+
+
+Developers--------------here
+
+
+1 Getting Started
+	Setting up your workstation for Joomla development.
+	Secure coding guidelines
+	Joomla! Development Best Practices.	
+	Joomla! API
+	Joomla! Resources
+2 Components
+	Absolute Basics of How a Component Functions
+		Getting the Data
+ 	Developing a Model-View-Controller Component
+		Developing a Model-View-Controller Component/2.5
+			a.Developing a MVC Component
+			b.Adding a view to the site part
+				Setting the view----------------------start read here
+			c.Adding a menu type to the site part	
+			d.Adding a model to the site part
+			e.Adding a variable request in the menu type
+			f.Using the database
+			g.Basic backend
+			h.Adding language management
+			i.Adding backend actions
+			j.Adding decorations to the backend
+			k.Adding verifications
+			
+	
+3 Plugins
+	3.1 Recommended Reading
+	3.1.1 Beginner
+	3.1.2 Intermediate
+	--------------------
+	3.1.3 Advanced
+4 Templates
+	4.1 Recommended Reading
+	4.1.1 Beginners
+	4.1.2 Intermediate
+	4.1.3 Historical
+5 Modules
+	5.1 Recommended Reading
+6 More Development Topics
+	6.1 Database
+	6.2 Localisation
+	6.3 ACL Topics
+	6.4 Forms
+6.4.1 Form Fields
+6.5 Security
+6.6 Misc
+7 Contributing to Documentation
+7.1 Suggested topics
+
+Designers----- user experience & visual design (this section belong to developer section)
+
+1 Recommended Reading
+1.1 Beginners
+1.2 Intermediate
+1.3 Historical
+2 FAQs
+3 Web Designer Tutorials
+	Adding JavaScript
+	Adding stylesheets for other output devices 
+	Creating clickable background images using CSS
+	More advanced Joomla! templates 
+	Switching templates 
+
+
+Administrators
+
+1 Joomla! Administrator's Manual
+2 Managing a Joomla! Website
+3 Content Management
+3.1 Managing Content
+3.2 Editing an article
+4 User Management
+4.1 Managing Users
+4.2 Managing Access
+5 Menu Management
+5.1 Managing Menus
+6 Joomla! Security Guide
+7 Template Management
+7.1 Managing Templates
+7.2 Migrating from Joomla! 1.5 to 2.5
+8 Tricks, Tips and Performance
+8.1 Tips
+9 Extension Management
+9.1 Managing Extensions
+10 Administrators Documentation Projects and Open Tasks
+11 Other Ideas and Suggestions
+
+Evaluators
+
+1 Quick Technical Evaluation
+2 High-Level Evaluation
+2.1 Web sites running Joomla
+2.2 Extensions
+2.3 Community
+2.4 Support
+2.5 Independent market studies
+3 Functional Evaluation
+3.1 Joomla! Core Functionality
+3.2 Joomla! Extensions
+3.3 Other Joomla! Customisation
+4 Security Evaluation

@@ -47,12 +47,12 @@ Developers--------------here
 		Developing a Model-View-Controller Component/2.5
 			a.Developing a MVC Component
 			b.Adding a view to the site part
-				Setting the view----------------------start read here
+				Setting the view
 			c.Adding a menu type to the site part	
 			d.Adding a model to the site part
 			e.Adding a variable request in the menu type
 			f.Using the database
-			g.Basic backend
+			g.Basic backend----------------------start read here
 			h.Adding language management
 			i.Adding backend actions
 			j.Adding decorations to the backend

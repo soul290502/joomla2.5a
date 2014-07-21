@@ -45,4 +45,4 @@ class HelloWorldModelHelloWorld extends JModelItem
                 //this version can change the words in view
                 
         }
-/
+}
